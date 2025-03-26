@@ -7,7 +7,8 @@ HX8357D
 HX8347G 
 HX8347I 
 ILI9486 
-ST7735S 
+ST7735S
+ST7789V
  
 Check out the file of LCDWIKI KBV lib Requirements for our tutorials and wiring diagrams.
 
